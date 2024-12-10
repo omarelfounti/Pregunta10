@@ -14,7 +14,7 @@
 7. En el archivo `styles.css`, agrega lo siguiente:
 
 ```css
- box-1 {
+ .box-1 {
         float: left;
         width: 200px;
         height: 200px;
@@ -22,7 +22,6 @@
         border: 1px solid red;
     }
 ```
-
 
 8. Haz una nueva confirmación, que incluya **SOLO los cambios del archivo `index.html`.** Agrega un mensaje de confirmación significativo.
 9. Haz una segunda confirmación que incluya **SOLO los cambios en el archivo `styles.css`.** Agrega un mensaje de confirmación significativo.
